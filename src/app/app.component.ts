@@ -11,6 +11,6 @@ export class AppComponent {
   hello = this.title + this.heading;
 
   isClicked(){
-    this.hello = "Opps! I clicked the button!";
+    this.hello = "Opps! I clicked the button! ROFL MAO";
   }
 }
